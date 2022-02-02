@@ -42,14 +42,18 @@
 							'joining_images/bg04.jpeg': 'center',
 							'joining_images/bg05.jpeg': 'center',
 							'joining_images/bg06.jpeg': 'center',
-							'joining_images/bg07.jpeg': 'center',
+							'joining_images/bg07.jpg': 'center',
 							'joining_images/bg08.jpeg': 'center',
 							'joining_images/bg09.jpeg': 'center',
 							'joining_images/bg10.jpeg': 'center',
 							'joining_images/bg11.jpeg': 'center',
 							'joining_images/bg12.jpeg': 'center',
 							'joining_images/bg13.jpeg': 'center',
-							'joining_images/bg14.jpeg': 'center'
+							'joining_images/bg14.jpeg': 'center',
+							'joining_images/bg15.jpeg': 'center',
+							'joining_images/bg16.jpeg': 'center',
+							'joining_images/bg17.jpeg': 'center',
+							'joining_images/bg18.jpeg': 'center'
 						},
 
 					// Delay.
