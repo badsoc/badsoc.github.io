@@ -36,24 +36,24 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'joining_images/bg01.jpeg': 'center',
-							'joining_images/bg02.jpeg': 'center',
-							'joining_images/bg03.jpeg': 'center',
-							'joining_images/bg04.jpeg': 'center',
-							'joining_images/bg05.jpeg': 'center',
-							'joining_images/bg06.jpeg': 'center',
-							'joining_images/bg07.jpg': 'center',
-							'joining_images/bg08.jpeg': 'center',
-							'joining_images/bg09.jpeg': 'center',
-							'joining_images/bg10.jpeg': 'center',
-							'joining_images/bg11.jpeg': 'center',
-							'joining_images/bg12.jpeg': 'center',
-							'joining_images/bg13.jpeg': 'center',
-							'joining_images/bg14.jpeg': 'center',
-							'joining_images/bg15.jpeg': 'center',
-							'joining_images/bg16.jpeg': 'center',
-							'joining_images/bg17.jpeg': 'center',
-							'joining_images/bg18.jpeg': 'center'
+							'images/joining_images/bg01.jpeg': 'center',
+							'images/joining_images/bg02.jpeg': 'center',
+							'images/joining_images/bg03.jpeg': 'center',
+							'images/joining_images/bg04.jpeg': 'center',
+							'images/joining_images/bg05.jpeg': 'center',
+							'images/joining_images/bg06.jpeg': 'center',
+							'images/joining_images/bg07.jpg': 'center',
+							'images/joining_images/bg08.jpeg': 'center',
+							'images/joining_images/bg09.jpeg': 'center',
+							'images/joining_images/bg10.jpeg': 'center',
+							'images/joining_images/bg11.jpeg': 'center',
+							'images/joining_images/bg12.jpeg': 'center',
+							'images/joining_images/bg13.jpeg': 'center',
+							'images/joining_images/bg14.jpeg': 'center',
+							'images/joining_images/bg15.jpeg': 'center',
+							'images/joining_images/bg16.jpeg': 'center',
+							'images/joining_images/bg17.jpeg': 'center',
+							'images/joining_images/bg18.jpeg': 'center'
 						},
 
 					// Delay.
