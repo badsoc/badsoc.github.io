@@ -15,8 +15,8 @@
 ![Alt Text](guide/1_create_website_folder.gif)
 
 ### (2) get the website code into that folder
-* open the terminal (MacOs)
-* navigate to the newly created folder (MacOs: cd Documents <enter> cd website <enter> )
+* open the terminal (MacOs/linux) || command prompt (windows)
+* navigate to the newly created folder 'cd Documents <enter> cd website <enter>'
 * type: 'git init' (without the '')
 * type: ' git remote add origin https://github.com/badsoc/badsoc.github.io'
 * type: 'git pull origin main'
@@ -70,7 +70,7 @@
 ![Alt Text](guide/3d_adding_an_exec.gif)
 
 ### (4) updating Github to hold the new website
-* go back to the terminal (which should still be opened to the newly created 'website' folder
+* go back to the terminal (which should still be opened to the newly created 'website' folder)
 * type 'git add -A'
 * type 'git commit -m "updated execs" ' 
 * type 'git push -u origin main'
