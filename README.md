@@ -10,6 +10,10 @@
 
 ## Changing the executive team
 
+### (1) Create the website folder
+
+![Alt Text](guide/1_create_website_folder.gif)
+
 ## Adding pictures to the gallery
 
 ## Still stuck / want to do more?
