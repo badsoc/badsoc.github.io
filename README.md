@@ -14,6 +14,59 @@
 
 ![Alt Text](guide/1_create_website_folder.gif)
 
+### (2) get the website code into that folder
+* open the terminal (MacOs)
+* navigate to the newly created folder (MacOs: cd Documents <enter> cd website <enter> )
+* type: 'git init' (without the '')
+* type: ' git remote add origin https://github.com/badsoc/badsoc.github.io'
+* type: 'git pull origin main'
+
+![Alt Text](guide/2_get_website_into_folder.gif)
+
+### (3) updating the website
+* go back to the file explorer. There should now be all of the website files within that folder
+
+---updating the exec pictures---
+(adding the new pictures)
+* convert your pictures to .jpg if necessary (get them ready in a folder of your choosing)
+* enter the images folder
+* enter the execs_images folder
+* rename all of the exec pictures (add '1' at the end- this makes it so we can rename the new pictures later. e.g. rename 'president' to 'president1')
+* move your pictures into the folder
+* rename your pictures to match the existing exec pictures. (e.g. rename the president picture to 'president' will cause the explorer to ask you to replace the existing picture)
+
+![Alt Text](guide/3a_updating_exec_pics.gif)
+
+
+---updating the exec text---
+* in the file explorer, navigate to the folder that holds all of the website files (the one you created earlier)
+* right click on exec_team.html
+* select 'open with' and then select a text editor of your choice (e.g. visual studio code) 
+
+* scroll down to the section named '<!-- Exec Information -->' (around line 55)
+* copy everything from (and including) '<!-- One -->' until and including '</section>'
+* paste this after the last section (e.g. after <!-- Three -->'
+
+*delete all of the old exec pictures (i.e. with '1' at the end)
+
+![Alt Text](guide/3b_updating_exec_info.gif)
+
+---removing execs---
+
+![Alt Text](guide/3c_removing_an_exec.gif)
+
+---adding execs---
+
+![Alt Text](guide/3d_adding_an_exec.gif)
+
+### (4) updating Github to hold the new website
+* go back to the terminal (which should still be opened to the newly created 'website' folder
+* type 'git add -A'
+* type 'git commit -m "updated execs" ' 
+* type 'git push -u origin main'
+
+![Alt Text](guide/4_updating_website.gif)
+
 ## Adding pictures to the gallery
 
 ## Still stuck / want to do more?
