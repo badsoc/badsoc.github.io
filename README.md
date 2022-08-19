@@ -1,10 +1,6 @@
 # Guide for updating the website (intended for future BadSoc Executive personnel)
 
-## Saving your changes. 
-* After making your changes / each change, you will need to update the online codebase with your changes. 
-* This is done by 'commiting' and 'pushing' your changes to the online website codebase. 
-* How to save your changes:
-  * []
+
 
 
 
@@ -93,7 +89,12 @@
 
 ![Alt Text](guide/4_updating_website.gif)
 
-
+## Known issues solutions
+* git may not load after 'git push origin main'
+	* to solve: hold 'control + c'
+	* type 'git push <enter>'
+	* type 'git push origin main <enter>'
 
 ## Still stuck / want to do more?
-* We recommend contacting the computer science department, and asking for assistance. 
+* Contact the original author: lah21@outlook.com
+* Alternatively, we recommend contacting the computer science department, and asking for assistance. 
