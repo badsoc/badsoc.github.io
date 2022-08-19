@@ -26,36 +26,34 @@
 ### (3) updating the website
 * go back to the file explorer. There should now be all of the website files within that folder
 
----updating the exec pictures---
+#### ---updating the exec pictures---
 (adding the new pictures)
 * convert your pictures to .jpg if necessary (get them ready in a folder of your choosing)
 * enter the images folder
 * enter the execs_images folder
 * rename all of the exec pictures (add '1' at the end- this makes it so we can rename the new pictures later. e.g. rename 'president' to 'president1')
 * move your pictures into the folder
-* rename your pictures to match the existing exec pictures. (e.g. rename the president picture to 'president' will cause the explorer to ask you to replace the existing picture)
+* rename your pictures to match the existing exec pictures. (e.g. rename the new president picture to 'president' )
+*delete all of the old exec pictures (i.e. with '1' at the end)
 
 ![Alt Text](guide/3a_updating_exec_pics.gif)
 
-
----updating the exec text---
-* in the file explorer, navigate to the folder that holds all of the website files (the one you created earlier)
+#### ---updating the exec text---
+* In the file explorer, navigate to the folder that holds all of the website files (the one you created earlier)
 * right click on exec_team.html
 * select 'open with' and then select a text editor of your choice (e.g. visual studio code) 
 
-* scroll down to the section named '<!-- Exec Information -->' (around line 55)
-* copy everything from (and including) '<!-- One -->' until and including '</section>'
-* paste this after the last section (e.g. after <!-- Three -->'
-
-*delete all of the old exec pictures (i.e. with '1' at the end)
+* scroll down to the section named '\<!-- Exec Information -->' (around line 55)
+* copy everything from (and including) '\<!-- One -->' until and including '\</section>'
+* paste this after the last section (e.g. after \<!-- Three -->'
 
 ![Alt Text](guide/3b_updating_exec_info.gif)
 
----removing execs---
+#### ---removing execs---
 
 ![Alt Text](guide/3c_removing_an_exec.gif)
 
----adding execs---
+#### ---adding execs---
 
 ![Alt Text](guide/3d_adding_an_exec.gif)
 
