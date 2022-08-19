@@ -38,22 +38,34 @@
 
 ![Alt Text](guide/3a_updating_exec_pics.gif)
 
-#### ---updating the exec text---
+#### ---opening a file--
 * In the file explorer, navigate to the folder that holds all of the website files (the one you created earlier)
 * right click on exec_team.html
 * select 'open with' and then select a text editor of your choice (e.g. visual studio code) 
 
-* scroll down to the section named '\<!-- Exec Information -->' (around line 55)
-* copy everything from (and including) '\<!-- One -->' until and including '\</section>'
-* paste this after the last section (e.g. after \<!-- Three -->'
+#### ---updating the exec text---
+* scroll down to the text being updated (should be under a section labelled '\<!-- [number] -->' ), underneath of the section '\<!-- Exec Information -->' 
+* place the cursor at the text being updated
+* remove the old text, and replace with the new text 
+* save (command + s)
 
 ![Alt Text](guide/3b_updating_exec_info.gif)
 
 #### ---removing execs---
 
+* scroll down to the section containing the executive being removed
+* select everything from (and including) '\<!-- [number] -->' until and including '\</section>'
+* delete (e.g. by pressing the backspace)
+* save (command + s)
+
 ![Alt Text](guide/3c_removing_an_exec.gif)
 
 #### ---adding execs---
+
+* scroll down to the section named '\<!-- Exec Information -->' (around line 55)
+* copy everything from (and including) '\<!-- One -->' until and including '\</section>'
+* paste this after the last section (e.g. after \<!-- Three -->' )
+* save (command + s)
 
 ![Alt Text](guide/3d_adding_an_exec.gif)
 
